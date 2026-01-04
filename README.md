@@ -1,5 +1,6 @@
 **Independent financial analysis, valuation models, and market insights
 focused on Indian equities and global comparisons.**  
+
 *By Krishnam Kapoor*
 
 ---
