@@ -21,7 +21,9 @@ Feel free to reach out if you are interested in connecting to talk about finance
 
 Tata Consultancy Services — One-Page Company Profile
 A compact, analyst-style company snapshot designed to translate five-year financial history into a clear view on business quality, capital efficiency, and valuation context.
+
 📂 **View all projects on GitHub**  
+
 👉 https://github.com/Krishnamkapoor19
 
 ---
