@@ -6,17 +6,11 @@
 
 ## About Me
 
-Hi, I'm Krishnam Kapoor, a BBA (Finance) graduate building competence in equity research, valuation, and driver-based financial modeling. My work bridges the gap between raw financial data and actionable investment insights through rigorous quantitative analysis.
+Hi, I'm Krishnam Kapoor, a BBA (Finance) UnderGraduate building competence in equity research, valuation, and driver-based financial modeling. My work bridges the gap between raw financial data and actionable investment insights through rigorous quantitative analysis.
 
 This page is dedicated to independent financial analysis and structured writing. I aim to connect raw data with rigorous modeling to derive supportable conclusions about company value. I use this platform to share my latest models and research notes for review and discussion.
 
 Feel free to reach out if you are interested in connecting to talk about finance or the markets.
-
----
-
-## Technical Skills
-
-Financial Modeling • DCF Valuation • Comparable Analysis • Financial Statement Analysis • Driver-Based Modeling • Capital Efficiency Analysis • Excel Financial Modeling • Equity Research
 
 ---
 
@@ -38,6 +32,15 @@ A compact, analyst-style company snapshot designed to translate five-year financ
 👉 https://github.com/Krishnamkapoor19
 
 ---
+
+---
+
+## Finance & Technical Skills
+
+Technical: Microsoft Office (Advanced Excel, PowerPoint, Outlook), Alteryx (Automation), Power BI, Python, Bloomberg Terminal.
+Finance: Financial Modelling (3-Statement, DCF, Comparable Comps), Equity Research, Valuation, Due Diligence, Industry & Market Analysis, 
+Forecasting & Ratio Analysis
+
 
 ## Contact
 
