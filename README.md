@@ -19,11 +19,8 @@ Feel free to reach out if you are interested in connecting to talk about finance
 
 ### Equity Valuation & Analysis
 
-- Comprehensive valuation of Indian Oil Corporation (IOCL) using PESTEL, Porter’s Five Forces,
-  WACC, DDM, DCF, NAV, Residual Income, and relative valuation models.
-- Football Field valuation analysis of Tata Consultancy Services (TCS) to compare intrinsic
-  and relative valuation outcomes.
-
+Tata Consultancy Services — One-Page Company Profile
+A compact, analyst-style company snapshot designed to translate five-year financial history into a clear view on business quality, capital efficiency, and valuation context.
 📂 **View all projects on GitHub**  
 👉 https://github.com/Krishnamkapoor19
 
