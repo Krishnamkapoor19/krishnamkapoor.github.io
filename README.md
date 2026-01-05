@@ -51,7 +51,10 @@ I publish concise research notes and valuation frameworks focused on:
 
 The emphasis is on clarity, structure, and reasoning, not predictions
 
+[Read my articles on Substack](https://krishnamkapoor.substack.com/publish/home)
+
 ## Contact
 
-- **LinkedIn:** www.linkedin.com/in/krishnamkapoor
-- **Email:** krishnamkapoor19@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/krishnamkapoor)
+
+krishnamkapoor19@gmail.com
