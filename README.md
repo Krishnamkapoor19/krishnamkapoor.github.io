@@ -1,50 +1,47 @@
-Hi there, I'm Krishnam Kapoor 👋
-Financial Analyst | Equity Research | Valuation Modeling
+**Independent financial analysis, valuation models, and market insights focused on Indian equities and global comparisons.**
 
-Independent financial analysis, valuation models, and market insights focused on Indian equities and global comparisons.
+*By Krishnam Kapoor*
 
+---
 
-🎯 About Me
-I'm a BBA (Finance) graduate specializing in equity research, valuation, and driver-based financial modeling. My work bridges the gap between raw financial data and actionable investment insights through rigorous quantitative analysis.
-What I do:
+## About Me
 
-Build comprehensive financial models and DCF valuations
-Analyze Indian equities with a focus on fundamentals and capital efficiency
-Create structured research frameworks for investment decision-making
-Translate complex financial data into clear, supportable conclusions
+Hi, I'm Krishnam Kapoor, a BBA (Finance) graduate building competence in equity research, valuation, and driver-based financial modeling. My work bridges the gap between raw financial data and actionable investment insights through rigorous quantitative analysis.
 
-Current Focus: Developing systematic approaches to equity valuation and expanding coverage across sectors in the Indian market.
+This page is dedicated to independent financial analysis and structured writing. I aim to connect raw data with rigorous modeling to derive supportable conclusions about company value. I use this platform to share my latest models and research notes for review and discussion.
 
-🛠️ Technical Skills & Tools
-Financial Analysis:
-Financial Modeling DCF Valuation Comparable Analysis Financial Statement Analysis Ratio Analysis
-Tools & Software:
-Excel Financial Databases Bloomberg Terminal Capital IQ
-Research & Writing:
-Equity Research Reports Investment Memos Company Profiles Market Analysis
+Feel free to reach out if you are interested in connecting to talk about finance or the markets.
 
-📊 Featured Projects
-🏢 Tata Consultancy Services — One-Page Company Profile
-A compact, analyst-style company snapshot translating five-year financial history into insights on business quality, capital efficiency, and valuation context.
-Key Features:
+---
 
-Historical financial performance analysis (5-year trend)
-Profitability and capital efficiency metrics
-Valuation multiples and peer comparison
-Investment thesis summary
+## Technical Skills
 
-More equity research and valuation projects coming soon...
+Financial Modeling • DCF Valuation • Comparable Analysis • Financial Statement Analysis • Driver-Based Modeling • Capital Efficiency Analysis • Excel Financial Modeling • Equity Research
 
-📝 Research & Writing
-I publish concise research notes and valuation frameworks covering:
+---
 
-Business fundamentals and competitive positioning
-Market structure and sector dynamics
-Valuation methodologies and investment analysis
-Indian equity market insights
+## Projects
 
+### Equity Valuation & Analysis
 
-📫 Let's Connect
-I'm always interested in discussing finance, markets, and investment analysis.
+**Tata Consultancy Services — One-Page Company Profile**
 
+A compact, analyst-style company snapshot designed to translate five-year financial history into a clear view on business quality, capital efficiency, and valuation context.
+
+**Key components:**
+- Five-year financial performance trends and quality metrics
+- Profitability margins, return ratios, and capital efficiency indicators
+- Valuation context through multiples and peer positioning
+- Structured investment thesis framework
+
+📂 **View all projects on GitHub**  
+👉 https://github.com/Krishnamkapoor19
+
+---
+
+## Contact
+
+- **LinkedIn:** www.linkedin.com/in/krishnamkapoor
+- **Email:** krishnamkapoor19@gmail.com
+- **GitHub:** https://github.com/Krishnamkapoor19
 
