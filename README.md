@@ -33,18 +33,25 @@ A compact, analyst-style company snapshot designed to translate five-year financ
 
 ---
 
----
-
 ## Finance & Technical Skills
 
 Technical: Microsoft Office (Advanced Excel, PowerPoint, Outlook), Alteryx (Automation), Power BI, Python, Bloomberg Terminal.
+
 Finance: Financial Modelling (3-Statement, DCF, Comparable Comps), Equity Research, Valuation, Due Diligence, Industry & Market Analysis, 
 Forecasting & Ratio Analysis
 
+---
+## Writing
+
+I publish concise research notes and valuation frameworks focused on:
+
+- Business fundamentals and economic moats
+- Market structure and sector dynamics
+- Translating financial models into investment insights
+
+The emphasis is on clarity, structure, and reasoning, not predictions
 
 ## Contact
 
 - **LinkedIn:** www.linkedin.com/in/krishnamkapoor
 - **Email:** krishnamkapoor19@gmail.com
-- **GitHub:** https://github.com/Krishnamkapoor19
-
